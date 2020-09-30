@@ -12,6 +12,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Infinitum.SolutionTest.Application.Contracts\Infinitum.SolutionTest.Application.Contracts.csproj" />
+    <ProjectReference Include="..\Infinitum.SolutionTest.Application\Infinitum.SolutionTest.Application.csproj" />
+    <ProjectReference Include="..\Infinitum.SolutionTest.DataConverter\Infinitum.SolutionTest.DataConverter.csproj" />
+    <ProjectReference Include="..\Infinitum.SolutionTest.EntityFrameworkCore\Infinitum.SolutionTest.EntityFrameworkCore.csproj" />
   </ItemGroup>
 
 </Project>
